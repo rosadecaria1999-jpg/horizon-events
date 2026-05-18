@@ -26,3 +26,9 @@ A mobile app for Elevate Horizon Connect, a local council that runs community ev
 
 ## Project status
 In progress. Part 1 (project setup and kick-off meeting) is complete.
+
+## Components built so far
+- **HomeScreen** — landing screen, shows today's events
+- **EventScreen** — full list of council events
+- **SettingsScreen** — user preferences (text size, theme, sound)
+- **MainNavigator** — bottom tab navigation built with React Native Paper's BottomNavigation
